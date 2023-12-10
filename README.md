@@ -32,15 +32,6 @@
 
 ### Project Screenshot
 ------------
-<style>
-    li{margin-block:10px;}
-    img{
-        height:100px;
-        width:200px;
-        object-fit:cover;
-        border-radius:10px;
-    }
-</style>
 
 1. Home page
 
