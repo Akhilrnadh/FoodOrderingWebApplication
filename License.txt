@@ -1,11 +1,7 @@
- 
-
-
-
-License Notice
+ License Notice
 ---------------
 
- The script is designed and developed by Trick Trendz(Akhil R Nadh). The script should be buyed from the official developer (Tricktrendz) only. You will only get support if you purchased from us directly. You can modify the script if you want but if any issue occurs then the actual developer is not responsible for any type of loss. 
+ The script is designed and developed by Akhil R Nadh. The script should be buyed from the official developer (Tricktrendz) only. You will only get support if you purchased from us directly. You can modify the script if you want but if any issue occurs then the actual developer is not responsible for any type of loss. 
 
 
 	 Project Details
@@ -14,7 +10,7 @@ License Notice
 	 Name - FFC (Fresh Food Court)
 	 Type - Food Ordering Website
 	 Purpose - Major/Minor Project for students (MBA,BTECH,MSC,BSC Students, etc)
-	 Developer - TrickTrendz 
+	 Developer - TrickTrendz(Youtube) / Akhil R Nadh
      Youtube Video - https://youtu.be/-WRgFBsW6Gc
 
 	 ----------------
